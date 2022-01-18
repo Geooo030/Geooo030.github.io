@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[Geooo Blog](https://huangxuan.me)
 ================================
 
 > I never expect this becomes popular.

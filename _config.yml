@@ -14,8 +14,9 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     u/2248706384
-zhihu_username:     Geooo
+zhihu_username:     geopolitical
 github_username:    Geooo030
+weixin_username: George805531970
 #twitter_username:   Geooo
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
